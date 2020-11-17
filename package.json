@@ -1,0 +1,31 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "file:node_modules/axios",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "data-store": "^4.0.3",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "jquery": "^3.5.1"
+  },
+  "name": "comp426-project-",
+  "description": "COMP 426 Project: Color Maze",
+  "version": "1.0.0",
+  "main": "game.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeilkim777/COMP426-Project-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeilkim777/COMP426-Project-/issues"
+  },
+  "homepage": "https://github.com/yeilkim777/COMP426-Project-#readme"
+}
