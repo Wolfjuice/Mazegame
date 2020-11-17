@@ -59,7 +59,7 @@ export async function loadGame() {
                             const $timeboard = $('#timeboard');
                             $timeboard.empty();
                             $timeboard.append(`<h1>Time: ${gjh}</h1>`);
-                          }, 100);
+                          }, 10);
                     }
                     if (doneMove) {
                         doneMove = false;
@@ -87,7 +87,7 @@ export async function loadGame() {
                             const $timeboard = $('#timeboard');
                             $timeboard.empty();
                             $timeboard.append(`<h1>Time: ${gjh}</h1>`);
-                          }, 100);
+                          }, 10);
                     }
                     if (doneMove) {
                         doneMove = false;
@@ -112,7 +112,7 @@ export async function loadGame() {
                             const $timeboard = $('#timeboard');
                             $timeboard.empty();
                             $timeboard.append(`<h1>Time: ${gjh}</h1>`);
-                          }, 100);
+                          }, 10);
                     }
                     if (doneMove) {
                         doneMove = false;
@@ -138,7 +138,7 @@ export async function loadGame() {
                             const $timeboard = $('#timeboard');
                             $timeboard.empty();
                             $timeboard.append(`<h1>Time: ${gjh}</h1>`);
-                          }, 100);
+                          }, 10);
                     }
                     if (doneMove) {
                         doneMove = false;
